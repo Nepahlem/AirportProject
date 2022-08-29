@@ -1,0 +1,8 @@
+django
+djangorestframework
+Pillow
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+gunicorn
+django-on-heroku
